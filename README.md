@@ -79,7 +79,7 @@
 # *Kernel*
 > O kernel é responsável por garantir que os programas sejam executados corretamente, que a memória seja alocada de forma adequada e que o processador seja utilizado de forma eficiente. Além disso, o kernel também é responsável por garantir a segurança e estabilidade do sistema operacional.
 
-# *Gerenciador de processos
+# *Gerenciador de processos*
 > O Gerenciador de Processos *controla a execução de aplicativos e processos. Ele aloca tempo de CPU para processos e gerencia a criação, escalonamento e finalização dos mesmos, garantindo que cada processo tenha os recursos necessários para rodar corretamente.
 
 # *Gerenciador de memória*
