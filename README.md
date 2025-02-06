@@ -127,6 +127,7 @@
 **9. Cortana**: A assistente virtual Cortana foi introduzida no Windows 10, e foi a primeira grande tentativa do Windows em integrar uma assistente de voz ao sistema.
 
 **10. Windows 95 e a Internet**: O Windows 95 foi um dos primeiros a integrar o Internet Explorer de maneira significativa, o que ajudou a popularizar a navegação pela web.
+
 ---
 <h1 align="center"> <strong>Outras versões</strong></h1>
 
